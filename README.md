@@ -1,53 +1,39 @@
-# 📊 Sri Lanka GCE A/L 2020 Exam Results - Power BI Dashboard
+# 📊 Sri Lanka GCE A/L 2020 Results - Power BI Dashboard  
 
+## 📌 Overview  
+This project presents an **interactive Power BI dashboard** analyzing the **Sri Lanka GCE A/L 2020 examination results**. With data from **300,000+ candidates**, the dashboard offers insights into student performance, university selection criteria, and regional educational trends.  
 
+![Dashboard Preview](images/dashboard.jpg)  
+*Power BI Dashboard Overview*  
 
-## 📌 Overview
-This project presents a Power BI Dashboard analyzing the 2020 Sri Lanka GCE Advanced Level (A/L) Examination Results, covering approximately 300,000 candidates.
+## 🔍 Key Highlights  
+📈 **Pass Rates by Stream** – Compare success rates across **Arts, Commerce, Biological Science, and more**.  
+👩‍🎓👨‍🎓 **Gender Performance Analysis** – Understand the performance trends between **male and female students**.  
+📚 **Average Z-score Analysis** – Analyze scores by **syllabus type (New vs. Old)**.  
+🌍 **District & Island Rankings** – Identify **top-performing districts and islands** in Sri Lanka.  
 
-With interactive visualizations, the dashboard provides deep insights into pass rates, Z-scores, gender performance, and district rankings to assist in data-driven educational decisions.
+## 🗂️ Dataset Information  
+- **Exam Year:** 2020  
+- **Total Candidates:** ~300,000  
+- **Exam Streams:**  
+  - Arts  
+  - Biological Science  
+  - Biosystems Technology  
+  - Commerce  
+  - Engineering Technology  
+  - Physical Science  
+- **Key Features:**  
+  - Candidate's **Z-score**  
+  - **Gender & Birthdate**  
+  - **Common General Test & General English Scores**  
 
+## 🛠️ Power BI Dashboard Features  
+✅ **Dynamic Filters & Slicers** – Explore **custom insights** by filtering **districts, subjects, and performance levels**.  
+✅ **Interactive Charts & Graphs** – View **trends in student performance** with engaging **visualizations**.  
+✅ **Z-Score Distribution Analysis** – Compare Z-score trends to **university admission cut-offs**.  
 
-📂 Dataset Information
-The dataset consists of:
-✔ Candidate Details – Birthdays, Gender, Exam Stream
-✔ Subjects & Scores – Individual subjects chosen by candidates
-✔ Z-score & Rankings – University selection criteria
-✔ Mandatory Subjects – General English & Common General Test
-
-🎓 Exam Streams Included:
-Arts
-Biological Science
-Biosystems Technology
-Commerce
-Engineering Technology
-Physical Science
-🛑 Note: For privacy reasons, personally identifiable details (NIC, Full Name, Index Number) have been removed.
-
-🔍 Key Insights from the Dashboard
-✅ Pass Rates by Stream – Understand performance differences across various subject streams.
-✅ Gender Performance Analysis – Compare male vs. female success rates.
-✅ Average Z-score Trends – Explore how new syllabus vs. old syllabus candidates performed.
-✅ District & Island Rankings – Identify top-performing regions across Sri Lanka.
-
-📊 Interactive charts & filters make it easier to analyze trends and patterns effectively!
-
-🚀 Getting Started
-📥 Download & Setup
-1️⃣ Clone the repository
-
-git clone https://github.com/your-profile/your-repo.git
-
-2️⃣ Open the Power BI dashboard (.pbix file) in Power BI Desktop.
-
-3️⃣ Explore interactive insights!
-
-📸 Screenshots & Visuals
-Dashboard Overview	Z-score Analysis	Pass Rates by Stream
-📢 Contributing
-Feel free to open an issue or submit a pull request if you have suggestions to improve the dashboard!
-
-📜 License
-This project is open-source under the MIT License.
-
-📩 Have Questions? Feel free to reach out or connect with me on GitHub! 🚀
+## 🚀 How to Use  
+### 1️⃣ **Clone the Repository**  
+```sh
+git clone https://github.com/your-repo/powerbi-al-results.git
+cd powerbi-al-results
