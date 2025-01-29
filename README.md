@@ -49,6 +49,8 @@ in Power BI.
 
 ### 3️⃣ **Explore the Dashboard**
 🔹 Use filters to select different streams, districts, and gender-based performance.
+
 🔹 Hover over charts to see detailed insights.
+
 🔹 Export custom reports for further analysis.
 
