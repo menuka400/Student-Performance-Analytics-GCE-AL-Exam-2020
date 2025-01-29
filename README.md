@@ -25,7 +25,13 @@ This project presents an **interactive Power BI dashboard** analyzing the **Sri 
 - **Key Features:**  
   - Candidate's **Z-score**  
   - **Gender & Birthdate**  
-  - **Common General Test & General English Scores**  
+  - **Common General Test & General English Scores**
+ 
+### 🚀 **Why is this README attractive?**
+✅ **Well-structured with clear sections**  
+✅ **Easy-to-read markdown formatting**  
+✅ **Emoji icons for better visibility**  
+✅ **Includes images for visualization** 
 
 ## 🛠️ Power BI Dashboard Features  
 ✅ **Dynamic Filters & Slicers** – Explore **custom insights** by filtering **districts, subjects, and performance levels**.  
@@ -53,14 +59,7 @@ in Power BI.
 🔹 Hover over charts to see detailed insights.
 
 🔹 Export custom reports for further analysis.
-
-
-### 🚀 **Why is this README attractive?**
-✅ **Well-structured with clear sections**  
-✅ **Easy-to-read markdown formatting**  
-✅ **Emoji icons for better visibility**  
-✅ **Includes images for visualization**  
-
+ 
 ### **⭐ Star this repository if you found this project useful! ⭐**
 
 
