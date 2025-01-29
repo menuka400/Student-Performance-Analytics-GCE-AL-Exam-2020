@@ -37,3 +37,7 @@ This project presents an **interactive Power BI dashboard** analyzing the **Sri 
 ```sh
 git clone https://github.com/your-repo/powerbi-al-results.git
 cd powerbi-al-results
+
+### 2️⃣ **Open the Power BI File**
+🔹 Install Microsoft Power BI Desktop (if not already installed).
+🔹 Open Sri_Lanka_AL_Results.pbix in Power BI.
