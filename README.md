@@ -40,6 +40,7 @@ cd powerbi-al-results
 ```
 ### 2️⃣ **Open the Power BI File**
 🔹 Install Microsoft Power BI Desktop (if not already installed).
+
 🔹 Open 
 ```sh 
 Sri_Lanka_AL_Results.pbix
